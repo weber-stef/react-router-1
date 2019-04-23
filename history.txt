@@ -1,0 +1,1000 @@
+    4  07/03/19 13:39:19 touch webpack.conf.js
+    5  07/03/19 13:48:04 mkdir src
+    6  07/03/19 13:53:11 cd dist
+    7  07/03/19 13:53:15 ll
+    8  07/03/19 13:53:23 mkdir dist
+    9  07/03/19 13:54:57 cd dist
+   10  07/03/19 13:55:05 touch index.html
+   11  07/03/19 13:59:38 cd ..
+   12  07/03/19 13:59:50 npm run dev
+   13  07/03/19 15:11:39 npm run dev
+   14  07/03/19 15:12:07 devgo
+   15  07/03/19 15:12:09 ll
+   16  07/03/19 15:12:13 cd webpack-babel/
+   17  07/03/19 15:12:22 npm run dev
+   18  07/03/19 15:13:04 ll
+   19  07/03/19 15:13:11 git init
+   20  07/03/19 15:14:30 ll
+   21  07/03/19 15:15:17 git -status
+   22  07/03/19 15:15:27 git status
+   23  07/03/19 15:15:36 git add --a
+   24  07/03/19 15:18:30 git commit -m "babeled"
+   25  07/03/19 15:18:39 git remote add origin git@github.com:weber-stef/webpack-babel-.git
+   26  07/03/19 15:18:41 git push -u origin master
+   27  07/03/19 15:19:03 git push
+   28  07/03/19 15:21:39 ll
+   29  07/03/19 15:21:51 cd dist/assets/
+   30  07/03/19 15:21:53 ll
+   31  07/03/19 15:21:58 mkdir css
+   32  07/03/19 15:22:13 touch css/styles.css
+   33  07/03/19 15:22:49 ll
+   34  07/03/19 15:22:53 cd css/
+   35  07/03/19 15:22:55 ll
+   36  07/03/19 15:23:06 heute
+   37  07/03/19 15:23:16 cd ../../..
+   38  07/03/19 15:24:02 code .
+   39  07/03/19 15:25:05 npm run dev
+   40  07/03/19 15:25:34 BS .
+   41  07/03/19 15:33:42 npm run dev
+   42  07/03/19 15:33:58 BS .
+   43  07/03/19 15:51:11 npm run dev
+   44  07/03/19 15:51:27 BS .
+   45  07/03/19 16:10:55 mmm
+   46  07/03/19 16:10:58 nnn
+   47  07/03/19 16:11:07 usbgo
+   48  07/03/19 16:11:09 ll
+   49  11/03/19 09:07:42 usbheut
+   50  11/03/19 09:07:46 devheut
+   51  11/03/19 09:07:51 devgo
+   52  11/03/19 09:08:45 pp
+   53  11/03/19 11:16:27 BS .
+   54  11/03/19 11:18:05 devgo
+   55  11/03/19 11:18:30 mkdir 19-new-tab-github-weber-stef
+   56  11/03/19 11:18:37 cd 19-new-tab-github-weber-stef/
+   57  11/03/19 11:19:10 git clone git@github.com:FBW-12/19-new-tab-github-weber-stef.git
+   58  11/03/19 11:20:10 ll
+   59  11/03/19 11:20:35 cd 19-new-tab-github-weber-stef/
+   60  11/03/19 11:20:59 mv 19cd ..
+   61  11/03/19 10:52:11 BS .
+   62  11/03/19 15:33:00 git push
+   63  11/03/19 15:34:11 gitty "First working version"
+   64  11/03/19 14:29:39 code .
+   65  11/03/19 14:47:59 top
+   66  11/03/19 14:48:47 killall -9 chrome
+   67  11/03/19 11:22:32 git status
+   68  11/03/19 13:37:00 git add --a
+   69  11/03/19 13:37:18 git commit -m "added  time"
+   70  11/03/19 13:37:24 git push
+   71  11/03/19 12:18:00 mkdir assets
+   72  11/03/19 12:18:30 mkdir assets/styles/css assets/scripts
+   73  11/03/19 12:18:41 cd assets/
+   74  11/03/19 12:19:01 mkdir --p styles/css
+   75  11/03/19 12:19:15 mkdir --p scripts
+   76  11/03/19 12:19:36 touch scripts/customScripts.js
+   77  11/03/19 12:19:40 ll
+   78  11/03/19 12:19:48 cd ..
+   79  11/03/19 12:19:58 touch index.html
+   80  11/03/19 12:20:22 code .
+   81  11/03/19 12:28:31 bk
+   82  11/03/19 13:13:33 BS .
+   83  11/03/19 11:23:10 code .
+   84  11/03/19 11:23:49 BS .
+   85  11/03/19 10:50:10 devgo
+   86  11/03/19 10:50:15 cw2.sh
+   87  11/03/19 10:50:40 ll
+   88  11/03/19 10:51:19 mv NWP-2019-03-11--10-50-15/ PubSub
+   89  11/03/19 10:51:23 ll
+   90  11/03/19 10:51:27 cd P
+   91  11/03/19 10:51:36 cd PubSub/
+   92  11/03/19 10:51:39 ll
+   93  11/03/19 10:51:43 code .
+   94  11/03/19 11:15:55 cd ll
+   95  11/03/19 11:15:59 cd ..
+   96  11/03/19 15:34:47 devheut
+   97  11/03/19 15:34:49 ll
+   98  11/03/19 15:34:56 cd 19-new-tab-github-weber-stef/
+   99  11/03/19 15:35:16 mark  heut
+  100  11/03/19 15:35:21 cd ~
+  101  11/03/19 15:35:25 heut
+  102  11/03/19 15:35:39 cd heut
+  103  11/03/19 15:35:49 ll
+  104  11/03/19 15:37:08 devheut
+  105  11/03/19 15:37:13 devgo
+  106  11/03/19 15:37:16 ll
+  107  11/03/19 15:37:21 cd 19-new-tab-github-weber-stef/
+  108  11/03/19 15:37:25 bk
+  109  11/03/19 15:37:47 mark
+  110  11/03/19 15:37:54 cd ~
+  111  11/03/19 15:38:03 heute
+  112  11/03/19 15:38:09 heut
+  113  11/03/19 15:38:13 ll
+  114  11/03/19 15:38:18 BS .
+  115  11/03/19 15:38:29 code .
+  116  11/03/19 15:55:00 gitty "first try"
+  117  11/03/19 16:00:20 mm
+  118  11/03/19 16:00:23 mmm
+  119  11/03/19 16:00:27 nnn
+  120  12/03/19 09:02:27 code .
+  121  12/03/19 16:59:15 gitty "working-v-01"
+  122  12/03/19 16:59:26 mmm
+  123  12/03/19 16:59:31 nnn
+  124  12/03/19 16:59:41 usbgo
+  125  12/03/19 16:59:44 ll
+  126  12/03/19 17:00:07 mmm
+  127  12/03/19 18:02:10 usbgo
+  128  12/03/19 18:02:15 ll
+  129  12/03/19 18:03:26 devgo
+  130  12/03/19 18:03:28 ll
+  131  12/03/19 09:00:26 devheut
+  132  12/03/19 09:00:30 usbheut
+  133  12/03/19 09:00:33 heute
+  134  12/03/19 09:00:38 heut
+  135  12/03/19 09:01:01 ll
+  136  12/03/19 09:01:08 BS .
+  137  13/03/19 09:28:43 code .
+  138  13/03/19 12:13:23 gitty "flexed boxes"
+  139  13/03/19 12:44:13 BS .
+  140  13/03/19 15:05:15 gitty "created at uses static entry"
+  141  13/03/19 16:19:06 BS .
+  142  13/03/19 17:02:15 nautilus .
+  143  13/03/19 17:02:40 usbheut
+  144  13/03/19 17:02:47 usbgo
+  145  13/03/19 17:02:54 nautilus .
+  146  13/03/19 17:03:06 ppp
+  147  13/03/19 17:03:10 pp
+  148  14/03/19 12:05:14 bk
+  149  14/03/19 11:12:24 BS .
+  150  14/03/19 13:05:17 ll > imagelist.txt
+  151  14/03/19 13:07:12 ls -a | sort > filelist.txt
+  152  14/03/19 13:09:53 ls -h
+  153  14/03/19 13:10:04 ls --h
+  154  14/03/19 13:10:16 ls -help
+  155  14/03/19 13:10:23 ls --help
+  156  14/03/19 13:14:10 for file in * .[!.]*; do   printf "%s,\n" "$file" >> filelist.txt; done
+  157  14/03/19 13:14:38 for file in * .[!.]*; do   printf "%s,\n" "$file" >> filelist.txt; done
+  158  14/03/19 13:16:31 for file in * .[!.]*; do   printf "\"%s\",\n" "$file" >> filelist.txt; done
+  159  14/03/19 13:17:03 for file in * .[!.]*; do   printf "\"%s\",\n" "$file" >> filelist.txt; done
+  160  14/03/19 16:12:12 nautilus .
+  161  14/03/19 16:11:16 find . -type f -size +100k -exec mv -t ~/Development/2019-03-11-Montag/19-new-tab-github-weber-stef/assets/img/100kPlus {} \;
+  162  14/03/19 16:09:00 mkdir img/100kPlus
+  163  14/03/19 16:09:12 cd img/100kPlus/
+  164  14/03/19 16:15:32 gitty "adding bg-pictures no functions yet"
+  165  14/03/19 16:16:33 nnn
+  166  14/03/19 16:16:36 mmm
+  167  14/03/19 16:16:43 usbgo
+  168  14/03/19 16:16:46 ll
+  169  14/03/19 16:16:57 nn
+  170  14/03/19 16:17:03 nnn
+  171  14/03/19 16:17:11 cd ~
+  172  14/03/19 16:17:17 cat .bashrc
+  173  14/03/19 15:52:54 mkdir BiggerThan100k
+  174  14/03/19 15:54:12 find . -type f -size +100k -exec mv *  BiggerThan100k {} \;
+  175  14/03/19 15:55:22 find . -type f -size +100k -exec mv *.*  BiggerThan100k {} \;
+  176  14/03/19 15:58:02 for f in * ; do    mv "$f" "$f.jpg"; done
+  177  14/03/19 15:59:00 find . -type f -size +100k -exec mv *.jpg  BiggerThan100k {} \;
+  178  14/03/19 16:06:10 find . -type f -size +100k -exec mv -t  ./BiggerThan100k {} \;
+  179  14/03/19 16:06:32 find . -type f -size +100k -exec mv -t  BiggerThan100k {} \;
+  180  14/03/19 12:13:08 mv *.jpg ~/Development/assets/images/space/unsplash
+  181  14/03/19 16:14:19 cd ~
+  182  14/03/19 16:14:22 nnn
+  183  14/03/19 16:18:55 pp
+  184  14/03/19 10:24:26 code .
+  185  14/03/19 12:03:39 cd ~
+  186  14/03/19 12:03:46 cat .bashrc
+  187  14/03/19 12:04:10 nano ~/.config/gtk-3.0/bookmarks
+  188  14/03/19 09:36:38 BS .
+  189  14/03/19 09:36:13 BS .
+  190  14/03/19 09:12:59 devheut
+  191  14/03/19 09:13:20 usnheut
+  192  14/03/19 09:13:27 usbheut
+  193  14/03/19 09:23:01 devgo
+  194  14/03/19 09:23:09 nautilus .
+  195  18/03/19 09:03:37 code .
+  196  18/03/19 09:04:27 BS .
+  197  18/03/19 09:46:44 cd ~
+  198  18/03/19 09:46:48 devgo
+  199  18/03/19 09:46:57 git clone git@github.com:FBW-12/architecture-eventlisteners.git
+  200  18/03/19 09:47:04 ll
+  201  18/03/19 09:47:08 cd architecture-eventlisteners/
+  202  18/03/19 09:47:13 bk
+  203  18/03/19 09:47:32 ll
+  204  18/03/19 09:47:38 code .
+  205  18/03/19 09:48:48 cd .git
+  206  18/03/19 09:48:50 ll
+  207  18/03/19 09:48:58 code config
+  208  18/03/19 09:02:44 usbheut
+  209  18/03/19 09:02:48 devheut
+  210  18/03/19 09:02:59 nautilus  .
+  211  18/03/19 09:55:27 npm run
+  212  18/03/19 09:55:52 npm run dev
+  213  18/03/19 09:56:13 npm install
+  214  18/03/19 09:56:57 npm run dev
+  215  18/03/19 09:49:42 ll
+  216  18/03/19 09:51:42 git remote add origin git@github.com:weber-stef/architecture-eventlisteners.git
+  217  18/03/19 09:51:44 git push -u origin master
+  218  18/03/19 09:54:05 BS .
+  219  18/03/19 10:01:06 npm run dev
+  220  18/03/19 12:58:32 pp
+  221  18/03/19 13:05:48 nautilus .
+  222  18/03/19 13:06:06 BS .
+  223  18/03/19 14:43:24 npm run dev
+  224  18/03/19 16:13:15 ppp
+  225  18/03/19 16:13:22 pp
+  226  18/03/19 14:01:04 gitty "Redone with storage.js"
+  227  18/03/19 14:02:54 ll
+  228  18/03/19 14:03:01 cd .git
+  229  18/03/19 14:03:09 nano config 
+  230  18/03/19 14:05:09 git@github.com:FBW-12/architecture-eventlisteners.git
+  231  18/03/19 14:05:30 cd ..
+  232  18/03/19 14:05:48 gitty "eigenes repo"
+  233  18/03/19 14:06:28 git push -u origin master
+  234  18/03/19 14:25:39 cd ~
+  235  18/03/19 14:25:53 w3m
+  236  18/03/19 14:26:06 sudo apt install w3m
+  237  18/03/19 14:26:43 w3m
+  238  18/03/19 14:27:04 w3m www.spiegel.de
+  239  18/03/19 14:29:29 w3m www.taz.de
+  240  18/03/19 15:24:42 mmm
+  241  18/03/19 15:26:30 usbgo
+  242  18/03/19 15:26:32 ll
+  243  18/03/19 13:07:38 npm run dev
+  244  19/03/19 09:53:54 pp
+  245  19/03/19 09:57:18 devheut
+  246  19/03/19 09:57:22 usbheut
+  247  19/03/19 09:57:29 devgo
+  248  19/03/19 09:59:59 git colen git@github.com:FBW-12/architecture-eventlisteners.git
+  249  19/03/19 10:00:08 git clone git@github.com:FBW-12/architecture-eventlisteners.git
+  250  19/03/19 10:00:28 ll
+  251  19/03/19 10:00:34 cd architecture-eventlisteners/
+  252  19/03/19 10:00:39 code .
+  253  19/03/19 10:01:36 npm run dev
+  254  19/03/19 10:01:53 BS .
+  255  19/03/19 10:02:26 npm run build
+  256  19/03/19 10:01:00 BS .
+  257  19/03/19 10:05:10 ll
+  258  19/03/19 10:05:19 cd .git/
+  259  19/03/19 10:05:22 ll
+  260  19/03/19 10:05:42 cd ..
+  261  19/03/19 10:05:44 ll
+  262  19/03/19 10:05:50 code .
+  263  19/03/19 10:07:15 npm run dev
+  264  19/03/19 10:07:57 npm i
+  265  19/03/19 10:08:32 npm run dev
+  266  19/03/19 10:03:40 npm run dev
+  267  19/03/19 10:40:30 pp
+  268  19/03/19 16:10:49 BS .
+  269  19/03/19 13:08:58 node test.js
+  270  19/03/19 13:09:36 node assets/js/test.js
+  271  19/03/19 13:10:04 node src/assets/js/test.js
+  272  19/03/19 15:15:23 git remote remove origin
+  273  19/03/19 15:16:17 git remote -v
+  274  19/03/19 15:20:14 git remote add origi
+  275  19/03/19 15:22:07 ll
+  276  19/03/19 15:22:14 cd .git
+  277  19/03/19 15:22:16 ll
+  278  19/03/19 15:22:29 nano config
+  279  19/03/19 15:22:53 cd .git
+  280  19/03/19 15:23:20 ll
+  281  19/03/19 15:23:30 clear
+  282  19/03/19 15:23:34 cd ..
+  283  19/03/19 15:23:38 ll
+  284  19/03/19 15:23:43 git status
+  285  19/03/19 15:26:12 git remote -v
+  286  19/03/19 15:26:40 git remote add origin git@github.com:weber-stef/architecture-eventlisteners.git
+  287  19/03/19 15:26:47 git remote -v
+  288  19/03/19 15:27:25 git add --a
+  289  19/03/19 15:27:48 git commit -am "overwrite"
+  290  19/03/19 15:27:57 git push
+  291  19/03/19 15:28:11 git push --set-upstream origin master
+  292  19/03/19 15:28:50 git push --force origin master
+  293  19/03/19 16:07:54 gitty "not done yet"
+  294  19/03/19 16:08:24 git push --set-upstream origin master
+  295  19/03/19 16:09:02 gitty "not done yet"
+  296  19/03/19 16:10:20 npm run dev
+  297  19/03/19 10:09:31 devgo
+  298  19/03/19 10:09:34 ll
+  299  19/03/19 10:09:38 cd architecture-eventlisteners/
+  300  19/03/19 10:09:42 code .
+  301  19/03/19 10:09:50 npm run dev
+  302  19/03/19 16:11:41 devgo
+  303  19/03/19 16:11:44 ll
+  304  19/03/19 16:11:49 cd architecture-eventlisteners/
+  305  19/03/19 16:11:51 ll
+  306  19/03/19 16:12:05 npm run dev
+  307  19/03/19 16:14:00 BS .
+  308  19/03/19 16:20:16 npm run dev
+  309  19/03/19 16:54:16 pp
+  310  20/03/19 10:25:37 bk
+  311  20/03/19 10:53:54 npm run dev
+  312  20/03/19 10:54:52 gitty "mein kleiner Supermarkt"
+  313  20/03/19 09:02:48 devheut
+  314  20/03/19 09:02:52 usbheut
+  315  20/03/19 09:02:56 devgo
+  316  20/03/19 09:03:02 nautilus  .
+  317  20/03/19 09:03:12 cd architecture-eventlisteners/
+  318  20/03/19 09:03:16 code .
+  319  20/03/19 09:03:35 npm run dev
+  320  20/03/19 09:35:49 nom run dev
+  321  20/03/19 09:36:00 npm run dev
+  322  20/03/19 11:05:48 devgo
+  323  20/03/19 11:06:11 git clone git@github.com:FBW-12/you-know-javascript-weber-stef.git
+  324  20/03/19 11:06:20 cd you-know-javascript-weber-stef/
+  325  20/03/19 11:06:30 code .
+  326  20/03/19 12:52:49 pp
+  327  20/03/19 13:51:19 devgo
+  328  20/03/19 13:51:22 ll
+  329  20/03/19 13:51:32 cd you-know-javascript-weber-stef/
+  330  20/03/19 13:53:34 gitty "'Honesty' might be the title of a beautiful song by KINGS X, yet I do not know, ehere it will lead me here ;-)"
+  331  20/03/19 13:57:11 cd ..
+  332  20/03/19 13:57:14 ll
+  333  20/03/19 13:57:19 cd architecture-eventlisteners/
+  334  20/03/19 13:57:28 npm run dev
+  335  20/03/19 14:05:18 code .
+  336  20/03/19 15:22:22 ll
+  337  20/03/19 15:22:38 code .
+  338  20/03/19 16:32:35 npm run dev
+  339  20/03/19 17:00:37 mmm
+  340  20/03/19 17:00:44 nnn
+  341  20/03/19 17:00:49 usbgo
+  342  20/03/19 17:00:51 ll
+  343  20/03/19 17:01:00 devgo
+  344  20/03/19 17:01:02 ll
+  345  20/03/19 17:01:30 cd architecture-eventlisteners/npm run dev
+  346  20/03/19 17:01:42 cd architecture-eventlisteners/
+  347  20/03/19 17:01:48 npm run dev
+  348  20/03/19 17:03:19 gitty "the story so far"
+  349  20/03/19 17:04:04 pp
+  350  20/03/19 17:10:59 sudo poweroff
+  351  21/03/19 15:05:09 npm run dev
+  352  21/03/19 15:05:52 code .
+  353  21/03/19 16:04:30 mmm
+  354  21/03/19 16:04:39 nnn
+  355  21/03/19 15:04:02 usbheut
+  356  21/03/19 15:04:07 devheut
+  357  21/03/19 15:04:11 devgo
+  358  21/03/19 15:04:35 nautilus .
+  359  25/03/19 09:20:26 nano pp
+  360  25/03/19 09:20:33 pp
+  361  25/03/19 09:21:48 usbheut
+  362  25/03/19 09:21:52 devheut
+  363  25/03/19 09:21:58 devgo
+  364  25/03/19 09:22:28 touch Zugang  dark sky Api.txt
+  365  25/03/19 09:22:50 nano Zugang dark sky Api.txt 
+  366  25/03/19 09:23:27 ll
+  367  25/03/19 09:24:06 nautilus .
+  368  25/03/19 09:25:47 bk
+  369  25/03/19 09:27:45 giit clone git@github.com:LeandroDCI/webpack4-boilerplate.git
+  370  25/03/19 09:28:05 git clone git@github.com:LeandroDCI/webpack4-boilerplate.git
+  371  25/03/19 09:28:17 ll
+  372  25/03/19 09:29:23 mv webpack4-boilerplate/ theDarkerTheSky
+  373  25/03/19 09:29:41 cd theDarkerTheSky/
+  374  25/03/19 09:31:31 git remote add origin git@github.com:weber-stef/theDarkerTheSky.git
+  375  25/03/19 09:32:42 git push -u origin master 
+  376  25/03/19 09:32:51 git remote rm destination
+  377  25/03/19 09:33:05 git remote -v
+  378  25/03/19 09:34:02 git remote rm git@github.com:LeandroDCI/webpack4-boilerplate.git
+  379  25/03/19 09:35:28 ll
+  380  25/03/19 09:35:49 rm .git -f
+  381  25/03/19 09:36:05 rm --help
+  382  25/03/19 09:36:36 arm .git -f
+  383  25/03/19 09:36:48 rm -f .git
+  384  25/03/19 09:37:44 rm -rf .git
+  385  25/03/19 09:37:49 ll
+  386  25/03/19 09:38:26 git init
+  387  25/03/19 09:38:44 git remote add origin git@github.com:weber-stef/theDarkerTheSky.git
+  388  25/03/19 09:38:46 git push -u origin master
+  389  25/03/19 09:40:11 git status
+  390  25/03/19 09:42:16 npm init
+  391  25/03/19 09:43:10 ll
+  392  25/03/19 09:43:22 code .
+  393  25/03/19 09:44:49 cd ..
+  394  25/03/19 09:45:00 rm -rf theDarkerTheSky/
+  395  25/03/19 09:45:03 ll
+  396  25/03/19 09:45:29 mkdir  theDarkerTheSky
+  397  25/03/19 09:45:35 cd theDarkerTheSky/
+  398  25/03/19 09:46:18 git clone git@github.com:LeandroDCI/webpack4-boilerplate.git
+  399  25/03/19 09:47:37 npm i
+  400  25/03/19 09:47:54 ll
+  401  25/03/19 09:50:29 git remote -v
+  402  25/03/19 09:51:04 cd webpack4-boilerplate/
+  403  25/03/19 09:51:07 ll
+  404  25/03/19 09:51:19 mv . theDarkerTheSky
+  405  25/03/19 09:51:40 rm -rf ../webpack4-boilerplate/
+  406  25/03/19 09:51:46 cd ..
+  407  25/03/19 09:51:57 rm -rf theDarkerTheSky/
+  408  25/03/19 09:52:30 git clone git@github.com:LeandroDCI/webpack4-boilerplate.git
+  409  25/03/19 09:52:38 ll
+  410  25/03/19 09:53:03 mv webpack4-boilerplate/ theDarkerTheSky
+  411  25/03/19 09:53:08 cd theDarkerTheSky/
+  412  25/03/19 09:53:14 ll
+  413  25/03/19 09:53:29 cd .git
+  414  25/03/19 09:53:31 ll
+  415  25/03/19 09:53:43 cd ..ll
+  416  25/03/19 09:53:47 cd ..
+  417  25/03/19 09:54:00 rm -rf .git
+  418  25/03/19 09:54:47 ll
+  419  25/03/19 09:54:57 git init
+  420  25/03/19 09:55:12 git remote add origin git@github.com:weber-stef/theDarkerTheSky.git
+  421  25/03/19 09:55:14 git push -u origin master
+  422  25/03/19 09:55:35 ll
+  423  25/03/19 09:57:23 cd ..
+  424  25/03/19 09:57:38 rm -rf .
+  425  25/03/19 09:57:49 ll
+  426  25/03/19 09:58:00 tree
+  427  25/03/19 09:58:10 rm -rf theDarkerTheSky/
+  428  25/03/19 09:58:12 ll
+  429  25/03/19 09:58:43 git@github.com:LeandroDCI/webpack4-boilerplate.git
+  430  25/03/19 09:58:57 git init
+  431  25/03/19 09:59:00 ll
+  432  25/03/19 09:59:05 git@github.com:LeandroDCI/webpack4-boilerplate.git
+  433  25/03/19 09:59:47 rm -rf .git
+  434  25/03/19 09:59:59 mkdir theDarkerTheSky
+  435  25/03/19 10:00:09 cd theDarkerTheSky/
+  436  25/03/19 10:03:49 clone https://github.com/LeandroDCI/webpack4-boilerplate
+  437  25/03/19 10:03:57 git clone clone https://github.com/LeandroDCI/webpack4-boilerplate
+  438  25/03/19 10:06:29 git clone git@github.com:LeandroDCI/webpack4-boilerplate.git
+  439  25/03/19 10:06:38 ll
+  440  25/03/19 10:07:07 mv webpack4-boilerplate/ ../webpack
+  441  25/03/19 10:07:11 ll
+  442  25/03/19 10:07:17 cd ..
+  443  25/03/19 10:07:19 ll
+  444  25/03/19 10:07:29 rm -rf theDarkerTheSky/
+  445  25/03/19 10:07:45 mv webpack/ theDarkerThsSky
+  446  25/03/19 10:08:00 mv theDarkerThsSky/ theDarkerTheSky
+  447  25/03/19 10:08:13 ll
+  448  25/03/19 10:08:26 cd theDarkerTheSky/
+  449  25/03/19 10:08:27 ll
+  450  25/03/19 10:09:12 git remote remove origin
+  451  25/03/19 10:09:29 git remote add origin git@github.com:weber-stef/theDarkerTheSky.git
+  452  25/03/19 10:09:30 git push -u origin master
+  453  25/03/19 10:09:59 tree
+  454  25/03/19 10:10:10 nano webpack.config.js 
+  455  25/03/19 10:11:32 nano package.json 
+  456  25/03/19 10:17:17 npm i
+  457  25/03/19 10:17:53 npm run dev
+  458  25/03/19 10:18:31 code .
+  459  25/03/19 16:08:23 gitty "converted to class"
+  460  25/03/19 14:41:04 gitty "not with classes yet"
+  461  25/03/19 15:53:51 npm dev run
+  462  25/03/19 15:53:57 npm run dev
+  463  25/03/19 17:20:29 bk
+  464  25/03/19 17:20:38 nautilus .
+  465  25/03/19 17:21:45 cd ..
+  466  25/03/19 17:21:55 cw2.sh
+  467  25/03/19 17:32:35 ll
+  468  25/03/19 17:32:49 cd theDarkerTheSky/
+  469  25/03/19 17:34:13 mmm
+  470  25/03/19 17:34:38 gitty "dsf"
+  471  25/03/19 17:34:46 mmm
+  472  25/03/19 17:34:55 nnn
+  473  25/03/19 17:35:09 usbgo
+  474  25/03/19 17:35:24 ll
+  475  26/03/19 09:08:46 code .
+  476  26/03/19 09:11:04 npm run dev
+  477  26/03/19 09:07:04 bk
+  478  26/03/19 09:07:21 npm run dev
+  479  26/03/19 09:05:23 devheut
+  480  26/03/19 09:05:32 usbheut
+  481  26/03/19 09:05:41 devgo
+  482  26/03/19 09:05:53 heut
+  483  26/03/19 09:06:07 nautilus .
+  484  26/03/19 09:29:39 pp
+  485  26/03/19 09:14:06 code .
+  486  26/03/19 12:18:57 gitty "3 Forecasts"
+  487  26/03/19 12:04:38 pp
+  488  26/03/19 09:13:17 cd ../..
+  489  26/03/19 09:13:21 cd ..
+  490  26/03/19 09:13:36 npm run dev
+  491  26/03/19 15:03:59 cd ~
+  492  26/03/19 15:04:37 nautilus .
+  493  26/03/19 15:05:00 .bashrc gopen
+  494  26/03/19 15:05:11 g-open .bashrc
+  495  26/03/19 15:05:22 gopen .bashrc
+  496  26/03/19 15:07:14 open -e .bashrc
+  497  26/03/19 15:08:20 nano .bashrc
+  498  26/03/19 15:14:07 npm run dev
+  499  26/03/19 15:14:40 devgo
+  500  26/03/19 15:14:42 ll
+  501  26/03/19 15:14:48 cd theDarkerTheSky/
+  502  26/03/19 15:14:53 npm run dev
+  503  26/03/19 16:17:56 gitty "key problems evident"
+  504  26/03/19 14:27:26 devgo
+  505  26/03/19 14:27:30 ll
+  506  26/03/19 14:27:36 cd theDarkerTheSky/
+  507  26/03/19 14:28:36 npm run dev
+  508  26/03/19 14:29:54 code .
+  509  27/03/19 09:07:57 devheut
+  510  27/03/19 09:08:01 usbheut
+  511  27/03/19 13:44:26 code
+  512  27/03/19 13:44:54 npx create-react-app my-app
+  513  27/03/19 13:47:56 cd my-app
+  514  27/03/19 13:47:56 npm start
+  515  27/03/19 13:54:04 npx create-react-app my-app tree
+  516  27/03/19 14:16:00 pp
+  517  27/03/19 13:56:37 ll
+  518  27/03/19 13:56:51 cd src
+  519  27/03/19 13:56:56 code .
+  520  27/03/19 13:57:54 cd ../..
+  521  27/03/19 13:58:00 npm run dev
+  522  27/03/19 14:00:48 npm start
+  523  27/03/19 15:13:09 npm i serve -g
+  524  27/03/19 15:13:26 serve -s build
+  525  27/03/19 15:15:25 npm run build
+  526  27/03/19 15:16:35 serve -s build
+  527  27/03/19 15:50:50 mmm
+  528  27/03/19 15:50:54 nnn
+  529  27/03/19 15:51:00 usbgo
+  530  27/03/19 15:51:02 ll
+  531  27/03/19 15:51:38 nautilus .
+  532  27/03/19 15:51:46 mmm
+  533  27/03/19 15:51:51 ll
+  534  27/03/19 15:53:50 mmm
+  535  27/03/19 14:02:06 npm run  build
+  536  27/03/19 14:02:32 code .
+  537  28/03/19 09:24:47 devheut
+  538  28/03/19 09:24:50 usbheut
+  539  28/03/19 09:26:35 devgo
+  540  28/03/19 09:27:01 mkdir my2nd-app
+  541  28/03/19 09:27:09 cd my2nd-app/
+  542  28/03/19 09:28:02 npx create-react-app second
+  543  28/03/19 09:45:12 c devgo
+  544  28/03/19 09:45:17 cd ..
+  545  28/03/19 09:45:21 ll
+  546  28/03/19 09:45:43 devgo
+  547  28/03/19 09:45:46 ll
+  548  28/03/19 09:45:51 cd second/
+  549  28/03/19 10:37:55 pp
+  550  28/03/19 10:37:58 ppp
+  551  28/03/19 10:38:08 pp
+  552  28/03/19 10:38:26 usbgo
+  553  28/03/19 10:38:35 cd ../..
+  554  28/03/19 10:38:42 ll
+  555  28/03/19 10:40:04 usbgo
+  556  28/03/19 10:40:13 usbheut
+  557  28/03/19 09:30:01 npm start
+  558  28/03/19 09:33:29 rm -rf /home/dci-pc-ubuntu60/Development/node_modules/
+  559  28/03/19 09:33:39 ll /home/dci-pc-ubuntu60/Development/node_modules/
+  560  28/03/19 09:33:45 npm i
+  561  28/03/19 09:34:16 npm start
+  562  28/03/19 10:44:08 pp
+  563  28/03/19 10:44:20 usbgo
+  564  28/03/19 10:47:30 nautilus /media/$USER/ &
+  565  28/03/19 10:48:20 sudo mount /dev/sdb /media/$USER/usb0
+  566  28/03/19 10:50:41 devgo
+  567  28/03/19 10:50:44 ll
+  568  28/03/19 10:50:48 cd second/
+  569  28/03/19 10:50:59 npm start
+  570  28/03/19 12:37:10 lsblk
+  571  28/03/19 12:37:55 sudo fsck /dev/sdb1
+  572  28/03/19 10:51:22 code .
+  573  28/03/19 10:51:34 cd pub
+  574  28/03/19 10:51:41 ll
+  575  28/03/19 10:51:53 cd public
+  576  28/03/19 10:53:17 mkdir cd components/
+  577  28/03/19 10:53:35 touch Logo.js message.js
+  578  28/03/19 10:55:14 rm -f Logo.js message.js 
+  579  28/03/19 10:55:18 ll
+  580  28/03/19 10:55:27 cd components/
+  581  28/03/19 11:43:28 devgo
+  582  28/03/19 11:43:32 cd second/
+  583  28/03/19 11:43:39 npm start
+  584  28/03/19 12:06:16 usbgo
+  585  28/03/19 12:06:39 cd /media/dci-pc-ubuntu60/
+  586  28/03/19 12:06:41 ll
+  587  28/03/19 12:09:29 cd ~
+  588  28/03/19 12:09:34 fdisk -l
+  589  28/03/19 12:10:04 sudo fdisk -l
+  590  28/03/19 12:21:10 pmount
+  591  28/03/19 12:21:22 sudo apt install pmount
+  592  28/03/19 12:21:36 pmount /dev/sdb1
+  593  28/03/19 12:23:14 gparted
+  594  28/03/19 12:23:24 sudo apt install gparted
+  595  28/03/19 12:23:39 gparted
+  596  28/03/19 12:33:49 gpart
+  597  28/03/19 12:33:58 sudo apt install gpart
+  598  28/03/19 12:34:07 gparted
+  599  28/03/19 14:50:19 lsblk
+  600  28/03/19 14:52:14 source .bashrc
+  601  28/03/19 14:52:20 cd ~
+  602  28/03/19 14:52:26 source .bashrc
+  603  28/03/19 14:52:34 moheut
+  604  28/03/19 14:01:46 mkdir $(date +%Y-%m-%d-%A)
+  605  28/03/19 14:07:49 cd ~
+  606  28/03/19 14:07:53 moheut
+  607  28/03/19 14:48:46 source .bashrc
+  608  28/03/19 14:48:54 moheut
+  609  28/03/19 14:24:40 cd ~
+  610  28/03/19 14:24:47 source .bashrc
+  611  28/03/19 14:24:55 moheut
+  612  28/03/19 14:45:53 source .bashrc
+  613  28/03/19 14:45:59 mogo
+  614  28/03/19 14:46:14 moheut
+  615  28/03/19 13:13:01 devgo
+  616  28/03/19 13:13:04 ll
+  617  28/03/19 13:13:08 cd second/
+  618  28/03/19 13:14:12 npm start
+  619  28/03/19 13:53:52 cd ~
+  620  28/03/19 13:54:03 source .bashrc
+  621  28/03/19 13:54:13 moheut
+  622  28/03/19 13:58:40 devgo
+  623  28/03/19 13:58:45 cd ..
+  624  28/03/19 13:58:54 nautilus .
+  625  28/03/19 13:48:28 cd ~
+  626  28/03/19 13:55:46 cd ~
+  627  28/03/19 13:55:49 sudo fdisk -l.
+  628  28/03/19 13:56:07 sudo fdisk -l
+  629  01/04/19 09:05:34 usbheut
+  630  01/04/19 09:07:36 nano .bashrc
+  631  01/04/19 14:13:31 ll
+  632  01/04/19 14:13:37 code .
+  633  01/04/19 14:13:54 BS .
+  634  01/04/19 14:24:07 npm run build
+  635  01/04/19 14:24:33 cd ..
+  636  01/04/19 14:24:44 rm -rf tic-tac-toe/
+  637  01/04/19 14:24:47 ll
+  638  01/04/19 09:12:15 usbheut
+  639  01/04/19 09:12:21 usbgo
+  640  01/04/19 09:12:26 devheut
+  641  01/04/19 11:43:10 npx create-react-app getting-started
+  642  01/04/19 11:43:23 ll
+  643  01/04/19 11:43:32 code .
+  644  01/04/19 11:44:00 devgo
+  645  01/04/19 11:44:13 npx create-react-app getting-started
+  646  01/04/19 11:45:56 ll
+  647  01/04/19 11:46:00 cd getting-started/
+  648  01/04/19 11:46:04 code .
+  649  01/04/19 11:53:00 BS .
+  650  01/04/19 11:54:14 npm run start
+  651  01/04/19 13:41:17 cd ..
+  652  01/04/19 13:41:31 mkdir tic-tac-toe
+  653  01/04/19 13:41:39 nautilus .
+  654  01/04/19 13:42:16 cd tic-tac-toe/
+  655  01/04/19 13:44:14 npx create-react-app getting-started cd ..
+  656  01/04/19 13:44:30 cd ..
+  657  01/04/19 13:44:32 ll
+  658  01/04/19 13:44:39 npx create-react-app tic-tac-toe
+  659  01/04/19 13:45:01 rm -f tic-tac-toe/
+  660  01/04/19 13:45:57 rm -r tic-tac-toe/
+  661  01/04/19 13:46:10 npx create-react-app tic-tac-toe
+  662  01/04/19 13:47:27 cd tic-tac-toe/
+  663  01/04/19 13:47:33 nautilus .
+  664  01/04/19 13:50:44 cd ..
+  665  01/04/19 13:50:53 rm -r tic-tac-toe/
+  666  01/04/19 13:52:43 rm -rf tic-tac-toe/
+  667  01/04/19 13:52:47 ll
+  668  01/04/19 13:52:58 mkdir tic-tac-toe
+  669  01/04/19 13:53:01 cd tic-tac-toe/
+  670  01/04/19 13:53:08 nautilus .
+  671  01/04/19 13:53:56 ll
+  672  01/04/19 13:54:04 code .
+  673  01/04/19 14:03:25 BS .
+  674  01/04/19 14:19:37 npm start
+  675  01/04/19 13:02:01 git status
+  676  01/04/19 13:02:16 git add --a
+  677  01/04/19 13:02:36 git commit "new2 logo"
+  678  01/04/19 13:02:55 git commit "init logo"
+  679  01/04/19 13:03:11 git remote add origin git@github.com:weber-stef/react-gettingstarted.git
+  680  01/04/19 13:03:14 git push -u origin master
+  681  01/04/19 13:05:03 gitty "init logo"
+  682  01/04/19 14:26:29 code .
+  683  01/04/19 14:26:51 npm start
+  684  01/04/19 14:28:32 cat /home/dci-pc-ubuntu60/.npm/_logs/2019-04-01T12_26_52_047Z-debug.log
+  685  01/04/19 14:31:55 npm i
+  686  01/04/19 14:34:04 npm start
+  687  01/04/19 14:25:13 devgo
+  688  01/04/19 14:25:16 ll
+  689  01/04/19 14:25:26 mkdir tic-tac-toe
+  690  01/04/19 14:25:33 nautilus .
+  691  01/04/19 15:00:41 cd tic-tac-toe/
+  692  01/04/19 15:00:46 npm start
+  693  02/04/19 09:14:51 nautilus .
+  694  02/04/19 11:21:06 code .
+  695  02/04/19 11:21:59 ll
+  696  02/04/19 11:22:08 code .
+  697  02/04/19 11:22:34 ll
+  698  02/04/19 11:22:45 code .
+  699  02/04/19 11:13:37 code .
+  700  02/04/19 11:13:43 npm start
+  701  02/04/19 09:17:40 code .
+  702  02/04/19 09:36:52 devheut
+  703  02/04/19 09:36:59 devgo
+  704  02/04/19 09:37:05 cw2.sh
+  705  02/04/19 10:31:24 ll
+  706  02/04/19 10:31:31 cd NWP-2019-04-02--09-37-05/
+  707  02/04/19 10:55:51 npm init -y
+  708  02/04/19 10:56:33 npm i webpack --save-dev
+  709  02/04/19 10:58:37 npm i webpack-cli --save-dev
+  710  02/04/19 15:24:18 ll
+  711  02/04/19 15:25:06 cp pwd.txt ~/Development 
+  712  02/04/19 15:25:17 devgo
+  713  02/04/19 15:25:20 cd ..
+  714  02/04/19 15:25:23 ll
+  715  02/04/19 15:25:35 cat pwd.txt
+  716  02/04/19 15:24:51 devgo
+  717  02/04/19 15:24:55 cd ..
+  718  02/04/19 15:22:01 cd ..
+  719  02/04/19 15:22:08 nautilus .
+  720  02/04/19 14:57:50 code .
+  721  02/04/19 15:31:09 cd ~
+  722  02/04/19 15:31:11 ll
+  723  02/04/19 15:31:21 usbgo
+  724  02/04/19 15:31:27 cd ..
+  725  02/04/19 15:31:43 usbheut
+  726  02/04/19 14:54:54 code .
+  727  02/04/19 14:38:14 git init
+  728  02/04/19 14:38:22 ll
+  729  02/04/19 14:38:32 git status
+  730  02/04/19 14:38:50 git remote add origin git@github.com:weber-stef/tictactoe.git
+  731  02/04/19 14:39:06 gitty "Direnstag"
+  732  02/04/19 11:24:30 bk
+  733  02/04/19 11:24:36 code .
+  734  02/04/19 11:33:47 npm start
+  735  02/04/19 14:35:09 ll
+  736  03/04/19 10:44:07 sudo add-apt-repository ppa:atareao/atareao
+  737  03/04/19 10:45:01 sudo apt update
+  738  03/04/19 10:45:16 sudo apt install touchpad-indicator
+  739  03/04/19 10:45:49 touchpad-indicator &
+  740  03/04/19 09:13:00 code .
+  741  03/04/19 09:39:37 npm run
+  742  03/04/19 13:28:42 ll
+  743  03/04/19 14:33:55 npm start
+  744  03/04/19 09:10:41 npx create-react-app Memolist
+  745  03/04/19 09:11:21 npx create-react-app memolist
+  746  03/04/19 09:12:37 cd memolist/
+  747  03/04/19 09:12:44 npm start
+  748  03/04/19 09:50:09 cd src
+  749  03/04/19 09:51:33 touch Logo.js Header.js MemoList.js ItemsList.js
+  750  03/04/19 13:21:36 npm build
+  751  03/04/19 13:22:04 npm run build
+  752  03/04/19 13:25:26 npm i gh-pages
+  753  03/04/19 13:26:39 git remote add origin git@github.com:weber-stef/react-memolist.git
+  754  03/04/19 13:26:56 git push -u origin master
+  755  03/04/19 13:27:20 gitty "react-memo-1"
+  756  03/04/19 13:38:01 gh-pages -d build
+  757  03/04/19 13:39:44 npm run deploy
+  758  03/04/19 13:46:51 npm run deploy
+  759  03/04/19 13:41:56 npm run deploy
+  760  03/04/19 13:43:55 serve -s build
+  761  03/04/19 14:01:01 npm run deploy
+  762  03/04/19 15:52:49 mmm
+  763  03/04/19 09:06:04 usbheut
+  764  03/04/19 09:06:08 devheut
+  765  03/04/19 09:06:12 devgo
+  766  03/04/19 09:06:17 ll
+  767  03/04/19 09:06:42 nautilus .
+  768  03/04/19 14:51:45 ll
+  769  03/04/19 14:51:50 cd memolist/
+  770  03/04/19 14:51:58 npm start
+  771  03/04/19 15:10:36 npm run deploy
+  772  03/04/19 15:13:16 npm run start
+  773  03/04/19 15:14:10 npm run deploy
+  774  04/04/19 09:03:04 usbheut
+  775  04/04/19 09:03:08 devheut
+  776  04/04/19 09:03:12 devgo
+  777  04/04/19 09:03:23 cd ~
+  778  04/04/19 09:03:29 nano  .bashrc
+  779  04/04/19 14:36:16 sudo add-apt-repository ppa:atareao/atareao
+  780  04/04/19 14:37:21 touchpad-indicator &
+  781  04/04/19 14:39:12 nano .bashrc
+  782  04/04/19 14:42:42 source .bashrc
+  783  04/04/19 14:42:57 kmp
+  784  04/04/19 14:55:02 nano .bashrc
+  785  04/04/19 15:56:56 mmm
+  786  04/04/19 11:00:47 code .
+  787  04/04/19 11:13:48 npm i npm install remarkable --save
+  788  04/04/19 16:05:53 bbb
+  789  04/04/19 16:05:58 bb
+  790  04/04/19 16:06:05 cd ~
+  791  04/04/19 16:06:12 cat .bashrc
+  792  04/04/19 09:23:23 ll
+  793  04/04/19 09:23:29 code .
+  794  04/04/19 09:36:25 npm start
+  795  04/04/19 10:57:19 devgo
+  796  04/04/19 10:58:05 npx create-app markDownEditor
+  797  04/04/19 10:58:40 npx create-react-app markDownEditor
+  798  04/04/19 10:59:02 npx create-react-app markdowneditor
+  799  04/04/19 11:00:15 cd markdowneditor/
+  800  04/04/19 11:00:22 npm start
+  801  04/04/19 16:06:34 ba
+  802  04/04/19 16:06:50 nn
+  803  04/04/19 16:06:55 notes
+  804  04/04/19 09:08:02 touch testYest.sh
+  805  04/04/19 09:08:14 nano testYest.sh 
+  806  04/04/19 09:09:00 ll
+  807  04/04/19 09:09:24 testyest.sh
+  808  04/04/19 09:10:42 chmod +x testyest.sh
+  809  04/04/19 09:11:07 chmod +x testYest.sh
+  810  04/04/19 09:11:15 testYest.sh
+  811  04/04/19 09:12:27 nano testYest.sh 
+  812  04/04/19 09:13:15 chmod +x testYest.sh 
+  813  04/04/19 09:13:26 testYest.sh
+  814  04/04/19 09:13:56 nano testYest.sh 
+  815  04/04/19 09:14:41 chmod +x testYest.sh 
+  816  04/04/19 09:15:10 testYest.sh
+  817  04/04/19 09:16:26 nano -bashrc
+  818  04/04/19 09:16:32 cd ~
+  819  04/04/19 09:16:37 nano .bashrc
+  820  04/04/19 09:18:59 cd .local/bin
+  821  04/04/19 09:19:01 ll
+  822  08/04/19 11:06:47 code .
+  823  08/04/19 15:29:55 usbheut
+  824  08/04/19 15:29:58 mmm
+  825  08/04/19 10:00:46 devheut
+  826  08/04/19 10:00:49 devgo
+  827  08/04/19 10:01:41 npx create-react-app nice-caht
+  828  08/04/19 10:04:12 code .
+  829  08/04/19 10:04:26 cd nice-caht/
+  830  08/04/19 10:04:31 code .
+  831  08/04/19 10:04:52 npm start
+  832  08/04/19 11:03:04 cd ..
+  833  08/04/19 11:03:18 mkdir nice-chat
+  834  08/04/19 11:03:24 cd nice-chat/
+  835  08/04/19 11:03:30 git clone git@github.com:FBW-12/20-nice-chat-weber-stef.git
+  836  08/04/19 11:03:49 ll
+  837  08/04/19 11:04:26 mv 20-nice-chat-weber-stef/ ../20-nice-chat-weber-stef
+  838  08/04/19 11:04:30 cd ..
+  839  08/04/19 11:04:32 ll
+  840  08/04/19 11:04:47 del nice-chat/
+  841  08/04/19 11:04:59 rm -rf nice-chat
+  842  08/04/19 11:05:02 ll
+  843  08/04/19 11:05:09 cd 20-nice-chat-weber-stef/
+  844  08/04/19 11:05:17 npm install
+  845  08/04/19 11:06:19 npm start
+  846  09/04/19 09:28:53 devgo
+  847  09/04/19 09:29:01 cd Development/
+  848  09/04/19 09:29:02 ll
+  849  09/04/19 09:29:27 cd 2019-04-08-Montag/
+  850  09/04/19 09:29:29 ll
+  851  09/04/19 09:29:34 cd 20-nice-chat-weber-stef/
+  852  09/04/19 09:29:39 npm start
+  853  09/04/19 09:31:34 code .
+  854  09/04/19 09:41:23 cd ..
+  855  09/04/19 09:41:58 devheut
+  856  09/04/19 09:42:03 devgo
+  857  09/04/19 09:42:08 nautilus .
+  858  09/04/19 09:46:11 ll
+  859  09/04/19 09:46:19 cd 20.nice-chat-oliver-weber/
+  860  09/04/19 09:46:29 npm install
+  861  09/04/19 09:47:11 npm start
+  862  09/04/19 10:03:35 code .
+  863  09/04/19 10:52:19 touchpad-indicator &
+  864  09/04/19 11:31:12 cd ..
+  865  09/04/19 11:37:16 npx create-react-app clock
+  866  09/04/19 11:38:33 cd clock/
+  867  09/04/19 11:38:39 npm start
+  868  09/04/19 11:39:15 cd ..
+  869  09/04/19 11:39:21 cd clock/
+  870  09/04/19 11:39:24 code .
+  871  09/04/19 16:28:10 usbheut
+  872  09/04/19 16:28:18 usbgo
+  873  09/04/19 16:28:25 nautilus .
+  874  09/04/19 10:01:53 code .
+  875  09/04/19 09:59:38 code .
+  876  09/04/19 09:49:54 npm -i
+  877  09/04/19 09:50:01 npm install
+  878  09/04/19 09:55:14 npm start
+  879  10/04/19 09:14:15 pp
+  880  10/04/19 09:30:55 npm start
+  881  10/04/19 09:31:03 BS .
+  882  10/04/19 11:42:53 code .
+  883  10/04/19 11:45:53 ll
+  884  10/04/19 11:46:14 cd src
+  885  10/04/19 11:46:16 ll
+  886  10/04/19 11:46:47 mkdir Components
+  887  10/04/19 11:46:51 cd Components/
+  888  10/04/19 11:48:13 touch Background.js Clock.js Credits.js ToDo.js Widget.js
+  889  10/04/19 11:51:37 usbgo
+  890  10/04/19 11:51:44 usbheut
+  891  10/04/19 11:51:49 cd ~
+  892  10/04/19 11:51:53 usbgo
+  893  10/04/19 11:51:57 pp
+  894  10/04/19 12:00:46 devgo
+  895  10/04/19 12:00:48 ll
+  896  10/04/19 12:00:54 cd react-dashboard/
+  897  10/04/19 12:01:17 git branch
+  898  10/04/19 12:02:01 git push
+  899  10/04/19 12:02:22 git checkout master
+  900  10/04/19 12:04:50 git merge feature_app
+  901  10/04/19 12:20:30 git branch -a
+  902  10/04/19 12:21:15 git branch -d feature_background 
+  903  10/04/19 12:21:39 git branch -d feature_clock 
+  904  10/04/19 12:21:47 git branch -d feature_credits 
+  905  10/04/19 12:22:02 git branch -d feature_todo 
+  906  10/04/19 12:22:13 git branch -d feature_widget 
+  907  10/04/19 13:43:59 git checkout master
+  908  10/04/19 13:44:13 git pull
+  909  10/04/19 13:44:36 code .
+  910  10/04/19 13:49:54 git branch
+  911  10/04/19 13:50:14 git checkout master
+  912  10/04/19 13:50:31 git branch -d feature_clock 
+  913  10/04/19 13:51:07 git checkout -b feature_clock
+  914  10/04/19 13:51:18 code .
+  915  10/04/19 13:54:37 npm start
+  916  10/04/19 14:08:41 gitty "clock safed"
+  917  10/04/19 14:08:55 git push
+  918  10/04/19 15:10:55 git branch
+  919  10/04/19 15:11:17 checkout master
+  920  10/04/19 15:11:32 git checkout master
+  921  10/04/19 15:11:41 git pull
+  922  10/04/19 15:12:27 git checkout -b feature_button
+  923  10/04/19 15:12:50 code .
+  924  10/04/19 15:13:45 git checkout master
+  925  10/04/19 15:14:06 git branch -d feature_button 
+  926  10/04/19 15:14:21 git checkout -b feature_widget
+  927  10/04/19 15:14:46 code .
+  928  10/04/19 15:52:14 gitty "Pictured life from yesterday"
+  929  10/04/19 15:53:38 git push -u origin feature_widget
+  930  10/04/19 09:32:40 npm start
+  931  10/04/19 09:33:04 nautilus .
+  932  10/04/19 09:33:18 npm build
+  933  10/04/19 09:33:38 npm run-script build
+  934  10/04/19 09:35:08 nautilus
+  935  10/04/19 09:35:18 nautilus .
+  936  10/04/19 09:35:27 BS .
+  937  10/04/19 10:26:19 devgo
+  938  10/04/19 10:26:27 cd ..
+  939  10/04/19 10:26:31 devheut
+  940  10/04/19 10:26:39 devgo
+  941  10/04/19 10:28:32 pp
+  942  10/04/19 10:32:23 mkdir react-dashboard
+  943  10/04/19 10:32:29 cd react-dashboard/
+  944  10/04/19 10:32:39 echo "# react-dashboard" >> README.md
+  945  10/04/19 10:32:39 git init
+  946  10/04/19 10:32:39 git add README.md
+  947  10/04/19 10:32:39 git commit -m "first commit"
+  948  10/04/19 10:32:39 git remote add origin git@github.com:weber-stef/react-dashboard.git
+  949  10/04/19 10:32:39 git push -u origin master
+  950  10/04/19 10:33:57 git commit -am "Init"
+  951  10/04/19 11:00:55 ll
+  952  10/04/19 11:01:11 npx create-react-app .
+  953  10/04/19 11:19:20 ll
+  954  10/04/19 11:19:33 git status
+  955  10/04/19 11:19:45 gitty "init-stefs"
+  956  10/04/19 11:21:09 ll 
+  957  10/04/19 11:21:34 git branch feature_clock
+  958  10/04/19 11:22:15 git checkout feature_clock 
+  959  10/04/19 11:22:43 git push -u origin feature_clock
+  960  10/04/19 11:24:03 git checkout master
+  961  10/04/19 11:24:25 git branch feature_app
+  962  10/04/19 11:25:48 git branch feature_todo
+  963  10/04/19 11:26:03 git branch feature_background
+  964  10/04/19 11:26:14 git branch feature_widget
+  965  10/04/19 11:26:23 git branch feature_wid
+  966  10/04/19 11:27:12 git branch -m feature_wid feature_credits
+  967  10/04/19 11:27:25 git branch
+  968  10/04/19 11:28:55 git checkout feature_app 
+  969  10/04/19 11:30:21 git push -u origin feature_app 
+  970  10/04/19 11:30:56 git checkout feature_background 
+  971  10/04/19 11:31:08 git push -u origin feature_background 
+  972  10/04/19 11:31:34 git checkout feature_credits 
+  973  10/04/19 11:31:47 git push -u origin feature_credits  
+  974  10/04/19 11:32:15 git checkout feature_todo
+  975  10/04/19 11:32:32 git push -u origin feature_todo  
+  976  10/04/19 11:33:11 git checkout feature_widget 
+  977  10/04/19 11:33:25 git push -u origin feature_widget 
+  978  10/04/19 11:40:43 npm start
+  979  11/04/19 09:26:04 devgo
+  980  11/04/19 09:26:33 devheut
+  981  11/04/19 09:26:38 devgo
+  982  11/04/19 09:26:45 nautilus .
+  983  11/04/19 09:28:08 touchpad-indicator >& /dev/null &
+  984  11/04/19 09:28:29 ll
+  985  11/04/19 09:28:33 cd react-dashboard/
+  986  11/04/19 09:28:37 code .
+  987  11/04/19 09:28:48 npm start
+  988  11/04/19 10:46:48 git checkout master
+  989  11/04/19 10:46:55 git pull
+  990  11/04/19 10:47:04 npm start
+  991  11/04/19 10:49:15 pp
+  992  11/04/19 10:50:04 }
+  993  11/04/19 10:51:23 devgo
+  994  11/04/19 10:51:26 ll
+  995  11/04/19 10:51:29 cd react-dashboard/
+  996  11/04/19 10:51:41 npm i gh-pages
+  997  11/04/19 10:57:09 npm run deploy
+  998  11/04/19 10:59:46 usnheut
+  999  11/04/19 10:59:51 usbheut
+ 1000  11/04/19 11:25:24 pp
+ 1001  23/04/19 10:28:31 npm install react-router-dom
+ 1002  23/04/19 10:31:41 npm i react-router-dom
+ 1003  23/04/19 10:49:36 history > history.txt
