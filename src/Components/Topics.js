@@ -1,5 +1,5 @@
 import React from 'react';
-import { Route, Link } from 'react-router-dom';
+import { Route, NavLink } from 'react-router-dom';
 
 export default function Topics({ match }) {
 	return (
@@ -8,10 +8,14 @@ export default function Topics({ match }) {
 			<p>Lets choose some topic here</p>
 			<ul>
 				<li>
-					<Link to={`${match.url}/components`}>Components</Link>
+					<NavLink activeClassName="selected" to={`${match.url}/components`}>
+						Components
+					</NavLink>
 				</li>
 				<li>
-					<Link to="/topics/props">Props</Link>
+					<NavLink activeClassName="selected" to="/topics/props">
+						Props
+					</NavLink>
 				</li>
 			</ul>
 			<Route path={`${match.path}/:topic`} component={myTopicFunction} />

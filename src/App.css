@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Creepster');
 .App {
 	text-align: center;
 }
@@ -44,13 +45,20 @@ ul {
 }
 li,
 a {
+	font-weight: bold;
 	display: inline;
 	margin: 10px;
 	color: antiquewhite;
+	text-decoration: none;
+	font-family: 'Creepster', cursive;
+}
+a:hover {
+	color: red;
 }
 .navicss {
 	margin-bottom: 50px;
-	position: fixed;
-	top: 200px;
-	left: 25vw;
+}
+.selected {
+	padding: 8px;
+	background-color: #666;
 }
